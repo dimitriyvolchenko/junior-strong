@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-label="Юный исследователь играет с мячом">
+<defs><clipPath id="round"><rect x="1" y="1" width="598" height="398" rx="32"/></clipPath></defs>
+<g clip-path="url(#round)">
+<path d="M419 16c84 1 163 55 168 144s-53 179-162 180-181-37-172-136S335 15 419 16Z" fill="#e8f0ba"/>
+<path d="M149 399c-3-84 66-153 152-153h300M194 399c-2-59 46-107 106-107h300M244 400c-1-32 25-59 57-59h300" fill="none" stroke="#b8cc61" stroke-width="2"/>
+<circle cx="486" cy="99" r="41" fill="none" stroke="#c4d679" stroke-width="2"/>
+<circle cx="486" cy="99" r="27" fill="none" stroke="#c4d679" stroke-width="2"/>
+<path d="m71 112 10-21 10 21 22 9-22 10-10 21-10-21-21-10Z" fill="#1f6b61"/>
+<path d="m516 263 6-13 6 13 13 6-13 6-6 13-6-13-13-6Z" fill="#ef7a42"/>
+<path d="M400 79h19m-10-9v19M125 288h14m-7-7v14" stroke="#102b35" stroke-width="3" stroke-linecap="round"/>
+<path d="M68 342c26-28 32-71 26-106-27 15-28 48-11 60-3-22 12-53 26-59 12 43-1 72-25 73" fill="#1f6b61"/>
+<path d="M66 342h56l-8 34H75Z" fill="#f6f5ed"/>
+<ellipse cx="310" cy="367" rx="105" ry="10" fill="#102b35" opacity=".09"/>
+<!-- Legs move in an easy running stride. -->
+<path d="m298 254-24 59-57 23" fill="none" stroke="#e6a277" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m329 256 35 53 46 22" fill="none" stroke="#f0b389" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m207 327 22 20-18 19c-8 7-17 2-22-3l-4-5Z" fill="#102b35"/>
+<path d="m399 329 22-6 20 23c6 8-2 14-11 13l-30-4Z" fill="#102b35"/>
+<path d="m190 357 25 6m192-12h28" stroke="#f6f5ed" stroke-width="4" stroke-linecap="round"/>
+<!-- Arms, a relaxed reach for the ball. -->
+<path d="m285 164-36 36-43-12" fill="none" stroke="#e6a277" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m339 166 25 35 42-9" fill="none" stroke="#f0b389" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M295 142c-17 6-29 18-32 38l23 10-6 44c17 13 47 15 69 1l-6-45 19-13c-8-22-22-34-38-37Z" fill="#f6f5ed"/>
+<path d="m281 229-5 34 32 12 10-21 8 21 28-13-8-34Z" fill="#ef7a42"/>
+<path d="M311 171v34m-17-17h34" stroke="#d5e77d" stroke-width="9" stroke-linecap="round"/>
+<path d="M300 131v16c0 11 22 11 22-1v-18" fill="#e6a277"/>
+<path d="M283 97c-1-24 48-31 54-1l-1 18c-2 17-15 25-27 24-15-1-25-13-26-28Z" fill="#f0b389"/>
+<path d="M281 101c-9-12-3-29 11-34 11-14 41-10 48 6 4 8 4 19 1 27l-12-11-12 4-2-8c-8 12-22 17-34 16Z" fill="#102b35"/>
+<path d="M277 82c11-22 43-28 63-11l-2 10-62 13Z" fill="#1f6b61"/>
+<path d="m277 85-28 6c-4 1-4 6 1 7l37-1Z" fill="#1f6b61"/>
+<path d="M315 116c4 3 8 3 12-1" fill="none" stroke="#102b35" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="323" cy="104" r="2.5" fill="#102b35"/>
+<!-- A soft ball, with clean court-style panels. -->
+<circle cx="438" cy="168" r="36" fill="#ef7a42"/>
+<path d="M407 151c18 11 43 21 63 23m-37-41c1 24 4 48 14 70m-40-13c18-8 39-20 52-45" fill="none" stroke="#b64e2b" stroke-width="2.5"/>
+<path d="m179 125 33-8m-27 25 18-3m216 115 23-7m-18 19 12-4" stroke="#102b35" stroke-width="3" stroke-linecap="round"/>
+</g></svg>
