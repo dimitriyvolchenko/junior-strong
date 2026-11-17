@@ -1,5 +1,5 @@
 'use strict';
-const VERSION='1.0.0';
+const VERSION='1.1.0';
 const PREFIX=`junior-strong-${encodeURIComponent(self.registration.scope)}-`;
 const CACHE=PREFIX+VERSION;
 const ASSETS=['./','./index.html','./styles.css','./app.js','./program.json','./manifest.webmanifest','./icon-192.png','./icon-512.png','./hero.svg','./icon.svg','./apple-touch-icon.png','./INSTALL.html'];
